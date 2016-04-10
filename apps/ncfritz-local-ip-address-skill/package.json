@@ -11,6 +11,6 @@
   "dependencies": {
     "alexa-app": "^2.1.0",
     "public-ip": "1.2.0",
-    "Q": "1.4.1"
+    "q": "1.4.1"
   }
 }
