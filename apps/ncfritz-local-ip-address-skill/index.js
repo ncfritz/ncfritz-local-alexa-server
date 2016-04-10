@@ -11,7 +11,7 @@ app.launch(function(req, res) {
     res.say("I am the Gateway, ask me for the IP address");
 });
 app.intent('IpVFourIntent', {
-    'uterances': [
+    'utterances': [
         'what my IP address is',
         'what my IP vee four address is',
         'what the IP address is',
