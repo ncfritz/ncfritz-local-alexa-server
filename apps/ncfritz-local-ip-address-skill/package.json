@@ -1,0 +1,16 @@
+{
+  "name": "ncfritz-local-ipaddress-skill",
+  "version": "1.0.0",
+  "description": "Simple Alexa skill to return the local IP address of the gateway",
+  "main": "index.js",
+  "author": "Neil Fritz <ncfritz@ncfritz.net> (http://ncfritz.net/)",
+  "license": "Apache 2.0",
+  "alexa": {
+    "applicationId":"amzn1.echo-sdk-ams.app.eae8f29d-1b13-47d2-9f24-28ecc310254b"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "public-ip": "1.2.0",
+    "Q": "1.4.1"
+  }
+}
