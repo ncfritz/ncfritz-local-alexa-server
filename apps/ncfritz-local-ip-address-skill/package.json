@@ -1,5 +1,5 @@
 {
-  "name": "ncfritz-local-ipaddress-skill",
+  "name": "ncfritz-local-ip-address-skill",
   "version": "1.0.0",
   "description": "Simple Alexa skill to return the local IP address of the gateway",
   "main": "index.js",

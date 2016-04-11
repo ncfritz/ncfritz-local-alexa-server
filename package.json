@@ -7,6 +7,6 @@
   "license": "Apache 2.0",
   "dependencies": {
     "alexa-app-server": "^2.2.4",
-    "ncfritz-local-ipaddress-skill": "^1.0.0"
+    "ncfritz-local-ip-address-skill": "1.0.0"
   }
 }

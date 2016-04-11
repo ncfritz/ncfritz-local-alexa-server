@@ -1,6 +1,6 @@
 var alexa = require('alexa-app');
 var ip = require('public-ip');
-var q = require('Q');
+var q = require('q');
 
 // Allow this module to be reloaded by hotswap when changed
 module.change_code = 1;
